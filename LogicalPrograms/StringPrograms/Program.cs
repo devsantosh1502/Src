@@ -6,7 +6,9 @@ namespace StringPrograms
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            StringReverse.GetStringReverse(); // Call String Reverse Method
+          
+
         }
     }
 }
