@@ -1,14 +1,8 @@
 # Logical Programming 
-Whatever i learnt form **YouTube**
+Those programs are for the interview purpose. 
 
-1. [Fibonacci Series]()
+1. [Numeric Program Examples](https://github.com/devsantosh1502/Src/blob/master/LogicalPrograms/NumberPrograms/INFO.md)
 
-:green_book: 
-**Output** - 1, 1, 2, 3, 5, 8, .....
+2. [String Program Examples]()
 
-2. [String Reverse]()
-
-:green_book:
-Input - "Hello"
-**Output** - "olleH"
 
