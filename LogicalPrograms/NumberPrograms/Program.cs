@@ -6,7 +6,7 @@ namespace NumberPrograms
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            PalindromeProgram.GetPalindrome(121);
         }
     }
 }
