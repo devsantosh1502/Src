@@ -11,4 +11,4 @@ Only String Related Programs available here.
 
 **Desc** : Reverse each word of given string values.
 
-**Example** : If given input is **Hello Santosh**. output should be **olleH hsotnaS**
+**Example** : If given input is **"Hello Santosh"**. output should be **"olleH hsotnaS"**
