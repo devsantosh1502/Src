@@ -5,4 +5,4 @@ Only String Related Programs available here.
 
 **Desc**: Arrange string values in reverse order. 
 
-**Example** :If given input is **"Hello"** , output should be **"olleH"**.
+**Example** : If given input is **"Hello"** , output should be **"olleH"**.
