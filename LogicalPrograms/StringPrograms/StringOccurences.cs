@@ -18,7 +18,7 @@ namespace StringPrograms
                 {
                     if (str[0] == str[i]) // To chek first index of value is match with given char.
                     {
-                        count++; // Count char.
+                        count++; // Count first index of duplicate value..
                     }
                 }
                 Console.WriteLine(count);
