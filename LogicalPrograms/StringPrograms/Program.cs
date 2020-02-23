@@ -7,6 +7,7 @@ namespace StringPrograms
         static void Main(string[] args)
         {
             //StringReverse.GetStringReverse(); // Call String Reverse Method
+            EachWordReverse.GetEachWordReverse();
           
         }
     }
