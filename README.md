@@ -1,5 +1,5 @@
 # Logical Programming 
-Whatever i learnt form **YouTube**
+Those Programs are for interview purpose. 
 
 1. [Numeric Program Examples](https://github.com/devsantosh1502/Src/blob/master/LogicalPrograms/NumberPrograms/INFO.md)
 
