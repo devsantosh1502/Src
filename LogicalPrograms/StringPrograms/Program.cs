@@ -8,9 +8,8 @@ namespace StringPrograms
         {
             //StringReverse.GetStringReverse(); // Call String Reverse Method
             //EachWordReverse.GetEachWordReverse(); 
-            StringOccurences.getCountDuplicateChar();
-
-          
+            // StringOccurences.getCountDuplicateChar();
+            StringOccurences.FindDuplicateChars();
         }
     }
 }
