@@ -46,10 +46,14 @@ namespace StringPrograms
                     charDictionary.Add(ch,1);
                 }
             }
-            var keys = new HashSet<char>();
+            var keys = new HashSet<char>(charDictionary.Keys);
             foreach (var items in keys)
             {
-                Console.WriteLine("Char {0} repeating {1} items",items,charDictionary[items]);
+                if (charDictionary[items] != 1 ) 
+                {
+                    Console.WriteLine("Char {0} repeating {1} items", items, charDictionary[items]);
+                }
+                
             }
         }
         #endregion

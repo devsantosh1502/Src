@@ -10,6 +10,7 @@ namespace StringPrograms
             //EachWordReverse.GetEachWordReverse(); 
             // StringOccurences.getCountDuplicateChar();
             StringOccurences.FindDuplicateChars();
+            Console.ReadLine();
         }
     }
 }
